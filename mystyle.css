@@ -1,0 +1,16 @@
+/* styles.css */
+body { 
+    background-color: lightblue; 
+    } 
+    h1 { 
+        text-align:right; 
+        color: red; 
+        } 
+        h2 { 
+        text-align: left; 
+        color: red; 
+        } 
+        p { 
+        text-align: center; 
+        color: red; 
+        } 
